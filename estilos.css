@@ -21,7 +21,7 @@
 }
 
 .slider{
-    background-image: url(Carrusel/1.png);
+    background-image: url(1.png);
     background-size: cover;
     height: 100%;
     width: 100%;
@@ -31,23 +31,23 @@
 
 @keyframes animate{
     20%{
-        background-image: url(Carrusel/5.png);
+        background-image: url(5.png);
         background-size: cover;
     }
     40%{
-        background-image: url(Carrusel/4.png);
+        background-image: url(4.png);
         background-size: cover;
     }
       60%{
-        background-image: url(Carrusel/3.png);
+        background-image: url(3.png);
         background-size: cover;
     }
       80%{
-        background-image: url(Carrusel/2.png);
+        background-image: url(2.png);
         background-size: cover;
     }
       100%
-        background-image: url(Carrusel/1.png);
+        background-image: url(1.png);
         background-size: cover;
     }
      
